@@ -6,7 +6,7 @@ title: Home
 <section class="hero" aria-labelledby="profile-name">
   <div class="hero__content">
     <p class="eyebrow">Computer Systems Researcher &amp; Educator</p>
-    <h1 id="profile-name">Hyuck Han <span lang="ko">한혁</span></h1>
+    <h2 id="profile-name">Hyuck Han <span lang="ko">한혁</span></h2>
     <p class="hero__role">
       Associate Professor<br>
       <span>Department of Computer Science</span><br>
