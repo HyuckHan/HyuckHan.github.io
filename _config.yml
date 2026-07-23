@@ -1,3 +1,27 @@
-theme: jekyll-theme-modernist
-title: [Hyuck Han]
-description: [Computer systems engineer/educator/researcher]
+title: Hyuck Han
+korean_name: 한혁
+description: Associate Professor of Computer Science at Dongduk Women’s University
+url: https://hyuckhan.github.io
+baseurl: ""
+lang: en
+
+author:
+  name: Hyuck Han
+  email: hhyuck@gmail.com
+  github: https://github.com/HyuckHan
+  linkedin: https://www.linkedin.com/in/hyuck-han-36026a47/
+
+# Edit this list to add, remove, or reorder research interests.
+research_interests:
+  - System Software
+  - Operating Systems
+  - Database Systems
+  - Distributed Systems
+  - Cloud Computing
+  - Computer Architecture
+  - Accelerators and AI Systems
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
