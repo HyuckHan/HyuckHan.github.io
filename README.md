@@ -27,6 +27,7 @@ also be used with `bundle exec jekyll serve` if a local Gemfile is added.
 - Edit shared metadata and profile links in `_config.yml`.
 - Edit presentation and responsive styles in `assets/css/style.css`.
 
-Commented templates for future Publications, Teaching, and Projects content are
-at the bottom of `index.md`; matching disabled navigation links are in
-`_includes/header.html`. Add real content before enabling those links.
+The Publications navigation link is maintained in `_includes/header.html`.
+Commented templates for future Teaching and Projects content are at the bottom
+of `index.md`; matching disabled navigation links are in the header include.
+Add real content before enabling those links.

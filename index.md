@@ -18,9 +18,6 @@ title: Home
       <a href="{{ site.author.github }}" rel="me noopener noreferrer">GitHub</a>
     </div>
   </div>
-  <div class="hero__mark" aria-hidden="true">
-    <span>HH</span>
-  </div>
 </section>
 
 <section id="about" class="section section--intro" aria-labelledby="about-heading">
@@ -153,11 +150,6 @@ title: Home
 
   When real content is ready, add sections with the IDs below and enable the
   matching navigation links in _includes/header.html.
-
-  <section id="publications" class="section" aria-labelledby="publications-heading">
-    <div class="section__heading"><h2 id="publications-heading">Publications</h2></div>
-    <div class="section__body">...</div>
-  </section>
 
   Reserved IDs: #teaching and #projects
 -->
