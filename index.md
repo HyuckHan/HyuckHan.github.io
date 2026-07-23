@@ -119,9 +119,25 @@ title: Home
   </div>
 </section>
 
-<section id="contact" class="section section--contact" aria-labelledby="contact-heading">
+<section id="publications" class="section" aria-labelledby="publications-heading">
   <div class="section__heading">
     <p class="section__number" aria-hidden="true">05</p>
+    <h2 id="publications-heading">Publications</h2>
+  </div>
+  <div class="section__body publications">
+    <p>A complete and up-to-date list of publications is available on DBLP.</p>
+    <a
+      class="publications__link"
+      href="https://dblp.uni-trier.de/pid/17/5450.html?view=by-year"
+      target="_blank"
+      rel="noopener noreferrer"
+    >View publications on DBLP</a>
+  </div>
+</section>
+
+<section id="contact" class="section section--contact" aria-labelledby="contact-heading">
+  <div class="section__heading">
+    <p class="section__number" aria-hidden="true">06</p>
     <h2 id="contact-heading">Contact</h2>
   </div>
   <div class="section__body contact-grid">
